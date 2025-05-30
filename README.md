@@ -16,7 +16,7 @@ Both pipelines were fully tested using the TLC NYC Yellow Taxis Dataset.
 - ~80 Million Rows  
 - Source format: Parquet  
 - Schema: TripID, Pickup/Dropoff Datetime, LocationID, Fare, Tip, Passenger Count, Trip Distance, etc.
-- Link: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- Link: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) \(data from years 2023 and 2024 were used in this project\)
 
 ---
 
