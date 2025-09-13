@@ -176,7 +176,6 @@ WITH (
   - Peak hours vs off-hours comparisons
   - Passenger count distribution
 
-- Live Dashboard Link: **[NYC Yellow Taxis](https://github.com/Decabra/nyc-taxi-data-pipeline-azure-powerbi/edit/main/README.md)**
 
 ---
 
